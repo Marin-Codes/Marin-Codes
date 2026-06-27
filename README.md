@@ -8,7 +8,7 @@
 
 🎀━━━━━━━━━━━━━━━━━━━ ✩ ♬₊🎧 HERE'S YOUR GURLY! 🦋⋆☾⋆⁺₊✧ ━━━━━━━━━━━━━━━━━━━🎀
      👑  Hey! I'm Deepanjali Vishwakarma | 🌍 HOMELAND: Mumbai, Maharashtra, India 👑
-     💼 CLASS: Frontend developer | ⚡ SPECIAL ABILITY: [Python, Archlinux, JS & C++] ⚡
+     💼 CLASS: Frontend developer | ⚡ SPECIAL ABILITY: [Python, Linux, React & C++] ⚡
 🎀━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🎀
 ```
 ![HTML5](https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
