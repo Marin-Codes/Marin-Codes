@@ -21,7 +21,7 @@
 ![C++](https://img.shields.io/badge/C++-cdb4db?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <br>
-<img src="ascii-art-17845043478.svg" width="450">
+<img src="marin.jpg" width="450">
 <br>
 **☘[ GURLY'S JOURNEY CONTINUES... LEVEL UP NEVER ENDS! ]☘**
 
