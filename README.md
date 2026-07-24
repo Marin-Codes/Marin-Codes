@@ -9,10 +9,12 @@
 </pre>
  <h2> ~ ✨ "COSPLAY MY CODE, MAKE IT PERFECT!" ✨ ~ </h2>
  <br><br>
-🎀━━━━━━━━━━━━━━━━━━━ ✩ ♬+🎧 HERE'S YOUR GURLY! 🦋⋆☾⋆++✧ ━━━━━━━━━━━━━━━━━━━🎀
+🎀━━━━━━━━━━━ ✩ ♬+🎧 HERE'S YOUR GURLY! 🦋⋆☾⋆++✧ ━━━━━━━━━━━🎀
+ <br>
 👑  Hey! I'm Deepanjali Vishwakarma | 🌍 HOMELAND: Mumbai, Maharashtra, India 👑
 💼 CLASS: Frontend developer | ⚡ SPECIAL ABILITY: [Python, Linux, React & C++] ⚡
-🎀━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🎀
+ <br>
+🎀━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🎀
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
