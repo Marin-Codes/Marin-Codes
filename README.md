@@ -8,7 +8,7 @@
 💖 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ 💖
 </pre>
  <h2> ~ ✨ "COSPLAY MY CODE, MAKE IT PERFECT!" ✨ ~ </h2>
- <br><br>
+ <br>
 🎀━━━━━━━━━━━ ✩ ♬+🎧 HERE'S YOUR GURLY! 🦋⋆☾⋆++✧ ━━━━━━━━━━━🎀
  <br>
 👑  Hey! I'm Deepanjali Vishwakarma | 🌍 HOMELAND: Mumbai, Maharashtra, India 👑
@@ -25,7 +25,6 @@
 ![Python](https://img.shields.io/badge/Python-ffc8dd?style=for-the-badge&logo=python&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-cdb4db?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<br/>
 <br/>
 
 <table border="0" align="center">
