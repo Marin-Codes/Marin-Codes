@@ -37,14 +37,10 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
 ### 🐍 Watch the snake eat my contributions
 <img src="https://raw.githubusercontent.com/Marin-Codes/Marin-Codes/output/github-snake-pink.svg" alt="pink contribution snake" width="100%" />
-
 <br/>
-
 ### 📫 Let's Connect
 <a href="mailto:deepanjali3346@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
