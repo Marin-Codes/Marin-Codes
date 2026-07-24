@@ -33,7 +33,7 @@
       <img src="marin.jpg" width="300" alt="Marin Kitagawa" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak" width="400" />
+      <img src="https://streak-stats.demolab.com?user=Marin-Codes&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak" width="400" />
     </td>
   </tr>
 </table>
