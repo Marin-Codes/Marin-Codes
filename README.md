@@ -28,7 +28,7 @@
 
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/Marin-Codes/Marin-Codes/output/github-snake-pink.svg" alt="Contribution snake"/>
 
 <br/>
 
