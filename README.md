@@ -48,9 +48,7 @@
 <a href="https://github.com/Marin-Codes"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 &nbsp;
 <a href="https://www.instagram.com/deepanjali.says"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
-<br/><br/>
-
+<br/>
 ## **☘[ GURLY'S JOURNEY CONTINUES... LEVEL UP NEVER ENDS! ]☘**
 
 </div>
