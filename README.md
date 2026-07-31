@@ -40,7 +40,6 @@
 <br/>
 <h2> 🐍 Watch the snake eat my contributions </h2> 
 <img src="https://raw.githubusercontent.com/Marin-Codes/Marin-Codes/output/github-snake-pink.svg" alt="pink contribution snake" width="100%" />
-<br/>
 <h2> 📫 Let's Connect </h2>
 
 <a href="mailto:deepanjali3346@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
