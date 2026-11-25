@@ -10,28 +10,21 @@
 <br><br>
 
 <!-- § 2 · CLICKABLE SOCIALS & VISITOR STAMP -->
-<a href="https://www.instagram.com/marin.codes/">
-  <img src="https://img.shields.io/badge/Instagram-%40marin.codes-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.instagram.com/deepu_yaps/">
+  <img src="https://img.shields.io/badge/Instagram-%40deepu__yaps-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="https://github.com/Marin-Codes">
   <img src="https://img.shields.io/badge/GitHub-%40Marin--Codes-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://pin.it/4s6i1Epfi">
-  <img src="https://img.shields.io/badge/Pinterest-Scrapbook_Inspo-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
-</a>
-&nbsp;
 <a href="mailto:deepanjaliv567@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello-FFB6C1?style=for-the-badge&logo=gmail&logoColor=17131F" alt="Email"/>
 </a>
 
-<br><br>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=Marin-Codes&color=FF69B4&style=flat-square&label=scrapbook+visitors" alt="Scrapbook visitors"/>
-
-<br><br>
-
+<br>
 <!-- § 3 · LIVE CONTRIBUTION GARDEN -->
 <h3>✦ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢᴀʀᴅᴇɴ ✦</h3>
 
@@ -40,8 +33,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marin-Codes/Marin-Codes/output/github-snake.svg"/>
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Marin-Codes/Marin-Codes/output/github-snake-pink.svg" width="860"/>
 </picture>
-
-<br><br>
+<br>
 
 <!-- § 4 · LIVE STATS & STREAKS (PINK PAPER THEME) -->
 <h3>✦ ꜱᴛᴀᴛꜱ &amp; ꜱᴛʀᴇᴀᴋꜱ ✦</h3>
@@ -60,10 +52,6 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Codes&layout=compact&bg_color=fbeaf0&border_color=f48fb1&title_color=7b2cbf&text_color=2b2833" width="360" alt="Top Languages"/>
 
 <br><br>
 

@@ -127,7 +127,7 @@ def main():
     cy = 208
     draw_mixed_text(d_np, (tx, cy), "DEEPANJALI VISHWAKARMA", font_title, font_sym_body, "#1c1924")
     cy += 46
-    draw_mixed_text(d_np, (tx, cy), "Frontend Developer · Code Artist", font_sub, font_sym_body, "#7b2cbf")
+    draw_mixed_text(d_np, (tx, cy), "Frontend Developer · AI Developer", font_sub, font_sym_body, "#7b2cbf")
     cy += 40
     draw_mixed_text(d_np, (tx, cy), "♥ Mumbai, Maharashtra, India", font_body, font_sym_body, "#4a4752", sym_fill="#e0317a")
     cy += 18
@@ -172,8 +172,8 @@ def main():
     skills_list = [
         "• HTML5 & CSS3",
         "• JavaScript (ES6+)",
-        "• React & Next.js",
-        "• Liquid & Shopify",
+        "• React",
+        "• Liquid",
         "• Python & C++",
         "• Linux, Git & GitHub",
         "• Figma & UI Design",
@@ -246,11 +246,10 @@ def main():
     # Text sits neatly to the right of the vertical margin line (~52px) aligned on ruled lines!
     cx = 68
     draw_mixed_text(d_conn, (cx, 94), "☎ LET'S CONNECT!", font_connect_h, font_sym_conn, "#7209b7", sym_fill="#e0317a")
-    draw_mixed_text(d_conn, (cx, 155), "♥ IG: @marin.codes", font_connect, font_sym_conn, "#3a0ca3", sym_fill="#e0317a")
+    draw_mixed_text(d_conn, (cx, 155), "♥ IG: @deepu_yaps", font_connect, font_sym_conn, "#3a0ca3", sym_fill="#e0317a")
     draw_mixed_text(d_conn, (cx, 186), "♥ GH: @Marin-Codes", font_connect, font_sym_conn, "#3a0ca3", sym_fill="#e0317a")
-    draw_mixed_text(d_conn, (cx, 217), "♥ Pin: @Marin-Codes", font_connect, font_sym_conn, "#3a0ca3", sym_fill="#e0317a")
-    draw_mixed_text(d_conn, (cx, 248), "♥ deepanjaliv567@gmail.com", font_connect_sm, font_sym_conn, "#c9184a", sym_fill="#e0317a")
-    draw_mixed_text(d_conn, (cx, 309), "✦ always down to collab! ✿", font_connect_sm, font_sym_conn, "#5c5346", sym_fill="#f59f00")
+    draw_mixed_text(d_conn, (cx, 217), "♥ deepanjaliv567@gmail.com", font_connect_sm, font_sym_conn, "#c9184a", sym_fill="#e0317a")
+    draw_mixed_text(d_conn, (cx, 278), "✦ always down to collab! ✿", font_connect_sm, font_sym_conn, "#5c5346", sym_fill="#f59f00")
 
     paste_img(canvas, conn_layer, (720, 1745), rot=-1.5, shadow=True)
 
