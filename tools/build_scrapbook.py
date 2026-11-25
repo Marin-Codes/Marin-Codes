@@ -143,9 +143,9 @@ def main():
 
     paste_img(canvas, np_layer, (66, 338), rot=-1.5, shadow=True)
 
-    # Smart kitty overlapping upper-right corner of newspaper
+    # Smart kitty overlapping upper-right area beside newspaper bio
     smart_kitty = get_cropped("smart-kitty-sticker.png")
-    paste_img(canvas, smart_kitty, (830, 350), size=(320, int(320 * smart_kitty.height / smart_kitty.width)), rot=4)
+    paste_img(canvas, smart_kitty, (855, 500), size=(320, int(320 * smart_kitty.height / smart_kitty.width)), rot=4)
 
     # Paper hole & denim star tucked cleanly at bottom-right edge below C++
     paper_hole = get_cropped("paper_hole.png")
@@ -225,7 +225,7 @@ def main():
     # ── 4. BOTTOM: MUSIC DISCS & TORN NOTEBOOK CONNECT CARD ──────────
     # CD "The place where the confetto falls"
     disc2 = get_cropped("disc-sticker2.png")
-    paste_img(canvas, disc2, (90, 1790), size=(315, int(315 * disc2.height / disc2.width)), rot=-6)
+    paste_img(canvas, disc2, (95, 1855), size=(315, int(315 * disc2.height / disc2.width)), rot=-6)
 
     # Vinyl record with glitter stars overlapping CD
     disc1 = get_cropped("disc-sticker.png")
